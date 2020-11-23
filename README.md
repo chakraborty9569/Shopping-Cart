@@ -15,4 +15,8 @@ This is a shopping website with basic CSS styling and Javascript functionalities
 3. Product search functionality.
 
 
-4. Price filter functionality.
+4. Items in cart count functionality.
+
+
+5. Price filter functionality.
+
